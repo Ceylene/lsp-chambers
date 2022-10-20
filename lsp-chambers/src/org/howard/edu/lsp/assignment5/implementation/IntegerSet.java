@@ -110,16 +110,10 @@ public class IntegerSet {
 	 * @param item: Integer to be removed
 	 * @throws IntegerSetException Is thrown of the set is empty or if the integer is not in the set
 	 */
-	public void remove(int item) throws IntegerSetException {
-		if (set.isEmpty()) {
-			//throws an error if the set is empty
-			throw new IntegerSetException("\nCannot remove an element from an already empty set");
-		}
+	public void remove(int item) {
 		if (set.contains(item)) {
 			// attempts to remove the integer, if not present nothing happens
 			set.remove(set.indexOf(item));
-		} else {
-			throw new IntegerSetException("\nThis element is not in the set");
 		}
 		
 	};
