@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.howard.edu.lsp.midterm.problem1","l":"VotingMachine.UnknownCandidateException"},{"p":"org.howard.edu.lsp.midterm.problem1","l":"VotingMachine"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.howard.edu.lsp.assignment7","l":"AverageStrategy"},{"p":"org.howard.edu.lsp.assignment7","l":"AverageStrategy.EmptyListException"}];updateSearchResults();
